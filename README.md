@@ -7,5 +7,5 @@ Content :
 In this repository, you will find the following items :
 1. Projet Report (written in French)
 
-(PS : Reference Books - Quantum Walks and Search Algorithms)
+(PS : Reference Books - Quantum Walks and Search Algorithms by Renato Portugal)
             
